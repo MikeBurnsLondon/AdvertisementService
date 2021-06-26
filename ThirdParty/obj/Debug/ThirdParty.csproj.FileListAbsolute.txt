@@ -1,0 +1,5 @@
+C:\Users\Mike\Desktop\Style Analytics\BadProject\ThirdParty\bin\Debug\ThirdParty.dll
+C:\Users\Mike\Desktop\Style Analytics\BadProject\ThirdParty\bin\Debug\ThirdParty.pdb
+C:\Users\Mike\Desktop\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.dll
+C:\Users\Mike\Desktop\Style Analytics\BadProject\ThirdParty\obj\Debug\ThirdParty.pdb
